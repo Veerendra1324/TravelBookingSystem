@@ -78,11 +78,7 @@ Enter choice: 1
 4. Ooty - ₹10000
 ```
 
-## Future Enhancements
-- Store and retrieve booking data from files or a database
-- Add cancellation and search features
-- Include user authentication
-- Build a graphical user interface (GUI)
+
 
 ## Author
 Developed by **C Veerendra** as part of a Java console-based application project.
